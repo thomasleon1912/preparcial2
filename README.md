@@ -15,7 +15,7 @@ Este proyecto consiste en la maquetación de una página web inspirada en el dis
 ## Tecnologías Utilizadas
 
 - HTML5
-- CSS3
+- CSS
 - Git
 - GitHub
 
@@ -86,6 +86,7 @@ Algunas de las dificultades presentadas fueron:
 - Ajustar el tamaño de las imágenes para que mantuvieran una apariencia uniforme.
 - Organizar correctamente las secciones para que se parecieran al diseño de referencia.
 - Adaptar algunos elementos para dispositivos móviles.
+- Escoger el color indicado según la imagen.
 
 ---
 
@@ -108,20 +109,3 @@ Se utilizó Microsoft Copilot como herramienta de apoyo para:
 - Mejorar la organización del proyecto.
 - Obtener recomendaciones sobre estructura semántica.
 - Corregir errores durante el desarrollo.
-
-La implementación, adaptación y pruebas finales fueron realizadas por los integrantes del equipo.
-
----
-
-## Repositorio
-
-Agregar aquí el enlace del repositorio de GitHub.
-
-```text
-```
-
----
-
-## Autor
-
-Trabajo realizado con fines académicos para la asignatura de maquetación web.
